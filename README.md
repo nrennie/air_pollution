@@ -36,9 +36,11 @@ A threshold is then calculated for the functional depths. If the functional dept
 
 The days which were detected as outliers in this analysis occur around early November, late December, and early January. Although this may suggest there are seasonal trends with generally higher pollution levels in winter, further investigation found this not to be the case. One possible explanation	for why these dates were classified as having outlying levels of nitrogen dioxide, is fireworks. Fireworks are commonly set off on Bonfire Night, around Christmas, and New Year's Eve. Fireworks have been shown to contribute to elevated levels of gaseous pollutants, including nitrogen dioxide.
 
-<div align="center"> 
-### Part 2 coming soon!
+<h3 align="center"> 
+Part 2 coming soon!
+</h3> 
 
+<div align="center"> 
 The code for this project can be found at: [github.com/nrennie/air_pollution](https://github.com/nrennie/air_pollution) 
 </div>
 
