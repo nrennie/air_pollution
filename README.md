@@ -1,6 +1,4 @@
-<div align="center">
 ## Air Pollution Analysis
-</div>
 
 During my PhD, my research focused on developing methods to identify outlier demand in booking patterns for trains in railway networks. To demonstrate that these statistical methods are also applicable in other areas, I started to analyse air pollution data across the United Kingdom. The aim is to identify days with abnormal pollution levels. The data comes from Defra's Automatic Urban and Rural Network (AURN), which reports the level of nitrogen dioxide in the air every hour at 187 different locations. The data can be downloaded from [uk-air.defra.gov.uk/data/data_selector_service](https://uk-air.defra.gov.uk/data/data_selector_service). For this analysis, I considered data from 2014 to 2018.
 
