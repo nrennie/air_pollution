@@ -1,0 +1,187 @@
+57.1474762,-2.095396,Aberdeen,"Aberdeen, Aberdeen City, United Kingdom",,Bing Maps,city/town
+57.144555,-2.106472,Aberdeen.Union.Street.Roadside,"N Union Street Ext, Canton, MS 39046",,Bing Maps,street
+57.1252735,-2.0899762,Aberdeen.Wellington.Road,"Wellington Road, Aberdeen AB12 3, Scotland, United Kingdom",,Bing Maps,street
+54.347538,-6.6561079,Armagh.Roadside,"Armagh, Armagh, United Kingdom",,Bing Maps,city/town
+53.1977871,-3.0392587,Aston.Hill,"Aston Hill, Ewloe CH5 3, Wales, United Kingdom",,Bing Maps,street
+59.40479,10.53293,Auchencorth.Moss,"Horten-Moss, 3187 Horten",,Bing Maps,street
+54.97947,-5.9949469,Ballymena.Antrim.Road,"Ballymena Road, Ballymena BT44 0, Northern Ireland, United Kingdom",,Bing Maps,street
+54.8603859,-6.261621,Ballymena.Ballykeel,"Ballykeel, Ballymena, United Kingdom",,Bing Maps,city/town
+53.5605583,-1.513201,Barnsley.Gawber,"Gawber, South Yorkshire, United Kingdom",,Bing Maps,city/town
+51.390922,-2.355030,Bath.Roadside,"Bath Avenue, Johannesburg, City of Johannesburg, Gauteng",,Bing Maps,street
+54.5970001,-5.9299998,Belfast.Centre,"Belfast City Centre, Belfast, Belfast City, United Kingdom",,Bing Maps,Neighborhood
+54.5972672,-5.930109,Belfast.Stockman.s.Lane,"Belfast, Belfast City, United Kingdom",,Bing Maps,city/town
+54.5944443,-1.291795,Billingham,"Billingham, Stockton-on-Tees, United Kingdom",,Bing Maps,city/town
+53.3860098,-3.0316044,Birkenhead.Borough.Road,"Birkenhead Central Library Borough Road, Birkenhead CH41 2XB, England, United Kingdom",,Bing Maps,address
+52.4828987,-1.8934619,Birmingham.A4540.Roadside,"Birmingham, West Midlands, United Kingdom",,Bing Maps,city/town
+52.4483185,-1.831046,Birmingham.Acocks.Green,"Acocks Green, Birmingham, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+52.479599,-1.903,Birmingham.Centre,"Birmingham City Centre, Birmingham, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+52.4751091,-1.922243,Birmingham.Ladywood,"Ladywood, West Midlands, United Kingdom",,Bing Maps,city/town
+52.5207176,-1.80809,Birmingham.Tyburn,"Tyburn, Birmingham, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+52.5207176,-1.80809,Birmingham.Tyburn.Roadside,"Tyburn, Birmingham, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+53.748361,-2.439217,Blackburn.Accrington.Road,"Blackburn Road & Accrington Road, Blackburn BB1 3, England, United Kingdom",,Bing Maps,intersection
+53.6950073,-2.4673409,Blackburn.Darwen.Roadside,"Darwen, Blackburn with Darwen, United Kingdom",,Bing Maps,city/town
+53.7969666,-3.0185139,Blackpool.Marton,"Marton, Lancashire, United Kingdom",,Bing Maps,city/town
+51.6579056,-0.270479,Borehamwood.Meadow.Park,"Borehamwood, Hertfordshire, United Kingdom",,Bing Maps,city/town
+50.7216797,-1.878527,Bournemouth,"Bournemouth, Bournemouth, United Kingdom",,Bing Maps,city/town
+53.7696666,-1.7540575,Bradford.Mayo.Avenue,"Mayo Avenue, Wibsey, Bradford BD5 8, England, United Kingdom",,Bing Maps,street
+50.8459015,-0.1551,Brighton.Preston.Park,"Preston Park, United Kingdom",,Bing Maps,RailwayStation
+50.8195229,-0.13642,Brighton.Roadside,"Brighton, Brighton and Hove, United Kingdom",,Bing Maps,city/town
+51.4553146,-2.591902,Bristol.Old.Market,"Bristol, Bristol, United Kingdom",,Bing Maps,city/town
+51.462839,-2.584482,Bristol.St.Paul.s,"Bristol Dr, St Paul, TX 75098",,Bing Maps,street
+51.4542997,-2.5838731,Bristol.Temple.Way,"Temple Way, Cabot, Bristol BS1 6, England, United Kingdom",,Bing Maps,street
+52.821050,-1.635718,"Burton.on.Trent.Horninglow",-,,Bing Maps,
+53.539110,-2.289611,Bury.Roadside,"Travessa Bury, 14055-563, Ribeirao Preto",,Bing Maps,street
+53.5934601,-2.2985401,Bury.Whitefield.Roadside,"Bury, Greater Manchester, United Kingdom",,Bing Maps,city/town
+55.862281,-3.205782,Bush.Estate,EST-28,,Bing Maps,street
+52.202370,0.124456,Cambridge.Roadside,"Cambridge, MA",,Bing Maps,city/town
+51.544210,-0.175269,Camden.Kerbside,"Camden, NJ",,Bing Maps,city/town
+52.6881218,-2.0290251,Cannock.A5190.Roadside,"Cannock, Staffordshire, United Kingdom",,Bing Maps,city/town
+52.6763372,-2.0363792,Cannock.Watling.Street,"Watling Street, Cannock WS11 0, England, United Kingdom",,Bing Maps,street
+51.273990,1.098061,Canterbury,"Canterbury, Canterbury, South Island",,Bing Maps,street
+51.481308,-3.1804979,Cardiff.Centre,"Cardiff, Cardiff, United Kingdom",,Bing Maps,city/town
+51.4839644,-3.167843,Cardiff.Newport.Road,"Newport Road, Cardiff CF24 0, Wales, United Kingdom",,Bing Maps,street
+54.894834,-2.945307,Carlisle.Roadside,"Carlisle Crescent, Ramsgate, Ugu, KwaZulu-Natal",,Bing Maps,street
+51.0581665,-2.6718991,Charlton.Mackrell,"Charlton Mackrell, Somerset, United Kingdom",,Bing Maps,city/town
+51.374264,0.547970,Chatham.Roadside,"Chatham, IL",,Bing Maps,Neighborhood
+51.6394615,-2.678056,Chepstow.A48,"Chepstow, Monmouthshire, United Kingdom",,Bing Maps,city/town
+53.2353592,-1.4241461,Chesterfield,"Chesterfield, Derbyshire, United Kingdom",,Bing Maps,city/town
+53.2353592,-1.4241461,Chesterfield.Loundsley.Green,"Chesterfield, Derbyshire, United Kingdom",,Bing Maps,city/town
+53.2353592,-1.4241461,Chesterfield.Roadside,"Chesterfield, Derbyshire, United Kingdom",,Bing Maps,city/town
+51.149617,-1.438228,Chilbolton.Observatory,"Observatory Place, East London, Buffalo City, Eastern Cape, 5209",,Bing Maps,street
+50.7425716,-1.800357,Christchurch.Barrack.Road,"Barrack Road, Jumpers, Christchurch BH23 2, England, United Kingdom",,Bing Maps,street
+52.4237556,-1.564604,Coventry.Allesley,"Allesley, Coventry, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+52.4025934,-1.4482327,Coventry.Binley.Road,"Binley Road, Binley, Coventry CV3 2, England, United Kingdom",,Bing Maps,street
+52.4063148,-1.508517,Coventry.Memorial.Park,"Coventry, West Midlands, United Kingdom",,Bing Maps,city/town
+51.6482506,-3.0256181,Cwmbran,"Cwmbrân, Torfaen, United Kingdom",,Bing Maps,city/town
+52.9270436,-1.475668,Derby.St.Alkmund.s.Way,"St Marys Bridge & Saint Alkmund's Way, Derby DE1 3, England, United Kingdom",,Bing Maps,intersection
+54.9945183,-7.3199558,Derry,"Londonderry, Derry City, United Kingdom",,Bing Maps,city/town
+55.0006027,-7.3316011,Derry.Rosemount,"Rosemount, Derry City, United Kingdom",,Bing Maps,city/town
+53.6915474,-1.632841,Dewsbury.Ashworth.Grove,"Dewsbury, West Yorkshire, United Kingdom",,Bing Maps,city/town
+53.5169186,-1.1387458,Doncaster.A630.Cleveland.Street,"A630 & Cleveland Street, Doncaster DN1 3, England, United Kingdom",,Bing Maps,intersection
+55.943197,-4.559730,Dumbarton.Roadside,"Dumbarton Avenue, Bulawayo, Bulawayo",,Bing Maps,street
+55.0690231,-3.6077261,Dumfries,"Dumfries, Dumfries and Galloway, United Kingdom",,Bing Maps,city/town
+56.475434,-2.959861,Dundee.Mains.Loan,"Dundee Road & Logan Avenue, Sandton, City of Johannesburg, Gauteng, 2191",,Bing Maps,street
+50.805778,0.271611,Eastbourne,"Eastbourne Street West, Hastings, Hawke's Bay, North Island",,Bing Maps,street
+55.9463175,-3.185343,Edinburgh.Nicolson.Street,"Nicolson Street, Edinburgh EH8 9, Scotland, United Kingdom",,Bing Maps,street
+50.8551238,0.5324447,Edinburgh.St.Leonards,"Edinburgh Road, St. Leonards TN38 8, England, United Kingdom",,Bing Maps,street
+55.2689705,-3.1774089,Eskdalemuir,"Eskdalemuir, Dumfries and Galloway, United Kingdom",,Bing Maps,city/town
+50.7218018,-3.533617,Exeter.Roadside,"Exeter, Devon, United Kingdom",,Bing Maps,city/town
+56.8187981,-5.1096568,Fort.William,"Fort William, Highland, United Kingdom",,Bing Maps,city/town
+55.8627892,-4.25424,Glasgow.Centre,"Glasgow city centre, Glasgow, Glasgow City, United Kingdom",,Bing Maps,Neighborhood
+55.860981,-4.2489052,Glasgow.City.Chambers,"City Chambers, United Kingdom",,Bing Maps,TouristStructure
+55.8945197,-4.3406225,Glasgow.Great.Western.Road,"Great Western Road, Drumchapel & Anniesland, Glasgow G13 2, Scotland, United Kingdom",,Bing Maps,street
+55.8610321,-4.2374455,Glasgow.High.Street,"High Street, Anderston, Glasgow G1 1, Scotland, United Kingdom",,Bing Maps,street
+55.8656845,-4.2571378,Glasgow.Kerbside,"Glasgow, Glasgow City, United Kingdom",,Bing Maps,city/town
+55.8655548,-4.2438889,Glasgow.Townhead,"Townhead, United Kingdom",,Bing Maps,TouristStructure
+53.4711113,-2.495101,Glazebury,"Glazebury, Warrington, United Kingdom",,Bing Maps,city/town
+56.0188408,-3.718435,Grangemouth,"Grangemouth, Falkirk, United Kingdom",,Bing Maps,city/town
+56.0188408,-3.718435,Grangemouth.Moray,"Grangemouth, Falkirk, United Kingdom",,Bing Maps,city/town
+55.94804,-4.7603278,Greenock.A8.Roadside,"Greenock, Inverclyde, United Kingdom",,Bing Maps,city/town
+51.680579,-3.133508,"Hafod.yr.ynys.Roadside",-,,Bing Maps,
+51.6016312,-0.112915,Haringey.Roadside,"London Borough of Haringey, London, United Kingdom",,Bing Maps,city/town
+54.683242,-1.203838,"Hartlepool.St.Abbs.Walk",-,,Bing Maps,
+51.5969963,-1.292994,Harwell,"Harwell, Oxfordshire, United Kingdom",,Bing Maps,city/town
+54.334944,-0.808550,High.Muffles,"High Lake, IA",,Bing Maps,Lake
+50.7995872,-3.188925,Honiton,"Honiton, Devon, United Kingdom",,Bing Maps,city/town
+51.1742706,-0.159169,Horley,"Horley, Surrey, United Kingdom",,Bing Maps,city/town
+53.748780,-0.341222,Hull.Freetown,"Hall Street Freetown Western Area Urban, Western",,Bing Maps,street
+53.758971,-0.305749,Hull.Holderness.Road,"Hull Road, Gweru, Midlands",,Bing Maps,street
+53.6185459,-0.2104493,Immingham.Woodlands.Avenue,"Woodlands Avenue, Immingham DN40 2, England, United Kingdom",,Bing Maps,street
+57.476696,-4.2314529,Inverness,"Inverness, Highland, United Kingdom",,Bing Maps,city/town
+53.3732452,-1.714995,Ladybower,"Ladybower Reservoir, United Kingdom",,Bing Maps,Lake
+52.2919998,-1.5369999,Leamington.Spa,"Royal Leamington Spa, Warwickshire, United Kingdom",,Bing Maps,city/town
+52.314622,-1.497128,Leamington.Spa.Rugby.Road,"Rugby Road, Leamington Spa CV32 7, England, United Kingdom",,Bing Maps,street
+53.7996902,-1.549103,Leeds.Centre,"Leeds, West Yorkshire, United Kingdom",,Bing Maps,city/town
+53.8262215,-1.5815589,Leeds.Headingley.Kerbside,"Headingley, Leeds, West Yorkshire, United Kingdom",,Bing Maps,Neighborhood
+52.634861,-1.12906,Leicester.A594.Roadside,"Leicester, Leicester City, United Kingdom",,Bing Maps,city/town
+52.6360016,-1.133,Leicester.Centre,"Leicester City Centre, Leicester, Leicester City, United Kingdom",,Bing Maps,Neighborhood
+52.6213913,-1.12444,Leicester.University,"University Of Leicester, United Kingdom",,Bing Maps,HigherEducationFacility
+52.221740,-2.736665,Leominster,"Leominster, MA",,Bing Maps,city/town
+53.2188955,-0.5330928,Lincoln.Canwick.Road,"Canwick Road, Lincoln LN5 8, England, United Kingdom",,Bing Maps,street
+53.446944,-2.962500,Liverpool.Queen.s.Drive.Roadside,"Queens Drive, Queenstown, Chris Hani, Eastern Cape",,Bing Maps,street
+53.3409233,-2.8410029,Liverpool.Speke,"Speke, Merseyside, United Kingdom",,Bing Maps,city/town
+51.4402008,0.1479,London.Bexley,"Bexley, United Kingdom",,Bing Maps,RailwayStation
+51.5261993,-0.1178,London.Bloomsbury,"Bloomsbury, London, London, United Kingdom",,Bing Maps,Neighborhood
+51.4258621,-0.1901256,London.Cromwell.Road.2,"2 Cromwell Road, London SW19 8LZ, England, United Kingdom",,Bing Maps,address
+51.4508095,0.052248,London.Eltham,"Eltham, London, London, United Kingdom",,Bing Maps,Neighborhood
+51.5985527,-0.075229,London.Haringey,"Haringey, London, London, United Kingdom",,Bing Maps,Neighborhood
+51.5985527,-0.075229,London.Haringey.Priory.Park.South,"Haringey, London, London, United Kingdom",,Bing Maps,Neighborhood
+51.487793,-0.435847,London.Harlington,"Harlington, London, United Kingdom",,Bing Maps,city/town
+51.5335808,-0.452584,London.Hillingdon,"Hillingdon, London, United Kingdom",,Bing Maps,city/town
+51.5223582,-0.1565592,London.Marylebone.Road,"Marylebone Road, Paddington, London NW1 5, England, United Kingdom",,Bing Maps,street
+51.5001526,-0.126236,London.N..Kensington,"London, London, United Kingdom",,Bing Maps,city/town
+51.4268227,-0.334028,London.Teddington,"Teddington, London, London, United Kingdom",,Bing Maps,Neighborhood
+51.5006828,-0.126638,London.Westminster,"City of Westminster, London, United Kingdom",,Bing Maps,city/town
+50.7939987,0.18,Lullington.Heath,"Lullington Heath, United Kingdom",,Bing Maps,Reserve
+51.8796501,-0.417558,Luton.A505.Roadside,"Luton, Luton, United Kingdom",,Bing Maps,city/town
+53.4774017,-2.2309,Manchester.Piccadilly,"Manchester Piccadilly, United Kingdom",,Bing Maps,RailwayStation
+53.3935013,-2.2488,Manchester.Sharston,"Sharston, Greater Manchester, United Kingdom",,Bing Maps,city/town
+53.4364967,-2.2259929,Manchester.South,South Manchester,,Bing Maps,Neighborhood
+52.4779625,-0.921035,Market.Harborough,"Market Harborough, Leicestershire, United Kingdom",,Bing Maps,city/town
+54.5730057,-1.237911,Middlesbrough,"Middlesbrough, Middlesbrough, United Kingdom",,Bing Maps,city/town
+53.162306,-3.144889,Mold,"Mold, Rosenburg-Mold",,Bing Maps,street
+51.781784,-4.691462,Narberth,"Narberth, PA",,Bing Maps,city/town
+54.978250,-1.610528,Newcastle.Centre,"Newcastle Centre Rd, Newcastle Centre, NB E4B, Canada",,Bing Maps,street
+54.987999,-1.592,Newcastle.Cradlewell.Roadside,"Cradlewell, Tyne & Wear, United Kingdom",,Bing Maps,city/town
+51.601203,-2.977281,Newport,"Newport, RI",,Bing Maps,city/town
+52.2348366,-0.897323,Northampton,"Northampton, Northamptonshire, United Kingdom",,Bing Maps,city/town
+52.2633095,-0.902485,Northampton.Kingsthorpe,"Kingsthorpe, Northampton, Northamptonshire, United Kingdom",,Bing Maps,Neighborhood
+52.2721748,-0.914082,Northampton.Spring.Park,"Spring Park, United Kingdom",,Bing Maps,Park
+52.6281013,1.299349,Norwich.Lakenfields,"Norwich, Norfolk, United Kingdom",,Bing Maps,city/town
+52.9551163,-1.1491669,Nottingham.Centre,"Nottingham, Nottingham City, United Kingdom",,Bing Maps,city/town
+52.9782763,-1.1789721,Nottingham.Western.Boulevard,"Western Boulevard, Whitemoor North, Nottingham NG8 5, England, United Kingdom",,Bing Maps,street
+52.5024729,-1.9994729,Oldbury.Birmingham.Road,"Birmingham Road, Birmingham B69 4, England, United Kingdom",,Bing Maps,street
+51.751745,-1.257463,Oxford.Centre.Roadside,"Oxford Centre, PA",,Bing Maps,LandmarkBuilding
+51.744806,-1.260278,"Oxford.St.Ebbes",-,,Bing Maps,
+55.6512222,-3.1924369,Peebles,"Peebles, Scottish Borders, United Kingdom",,Bing Maps,city/town
+50.3703804,-4.142653,Plymouth.Centre,"Plymouth, Plymouth, United Kingdom",,Bing Maps,city/town
+50.5382149,-4.1472717,Plymouth.Tavistock.Road,"Plymouth Road, Tavistock PL19 8, England, United Kingdom",,Bing Maps,street
+51.5828529,-3.7676654,Port.Talbot.Margam,"Margam Road, Port Talbot SA13 2, Wales, United Kingdom",,Bing Maps,street
+50.798912,-1.091163,Portsmouth,"Portsmouth, Portsmouth, United Kingdom",,Bing Maps,city/town
+50.7968215,-1.0957262,Portsmouth.Anglesea.Road,"Anglesea Road, Portsmouth PO1 2, England, United Kingdom",,Bing Maps,street
+53.7577286,-2.70344,Preston,"Preston, Lancashire, United Kingdom",,Bing Maps,city/town
+51.4592179,-0.9192959,Reading.London.Road,"Reading Road & London Road, Reading RG5 3, England, United Kingdom",,Bing Maps,intersection
+51.4569244,-0.949653,Reading.New.Town,"New Town, Reading, United Kingdom",,Bing Maps,city/town
+51.4481392,0.621455,Rochester.Stoke,"Stoke, Medway, United Kingdom",,Bing Maps,city/town
+53.4854012,-2.3345001,Salford.Eccles,"Eccles, United Kingdom",,Bing Maps,RailwayStation
+52.5063553,-1.962581,Sandwell.West.Bromwich,"Sandwell, West Bromwich, West Midlands, United Kingdom",,Bing Maps,Neighborhood
+52.132417,-0.300306,Sandy.Roadside,"Sandy Lane, Kloof, eThekwini, KwaZulu-Natal",,Bing Maps,street
+53.5791168,-0.654411,Scunthorpe.Town,"Scunthorpe, North Lincolnshire, United Kingdom",,Bing Maps,city/town
+53.5753582,-2.0966737,Shaw.Crompton.Way,"Crompton Way, Oldham OL2 7, England, United Kingdom",,Bing Maps,street
+53.4109415,-1.452129,Sheffield.Barnsley.Road,"Barnsley Road, Sheffield S5 6, England, United Kingdom",,Bing Maps,street
+53.3830566,-1.464795,Sheffield.Centre,"Sheffield, South Yorkshire, United Kingdom",,Bing Maps,city/town
+53.3788452,-1.47834,Sheffield.Devonshire.Green,"Devonshire Green, United Kingdom",,Bing Maps,Park
+53.4090233,-1.409063,Sheffield.Tinsley,"Tinsley, Sheffield, South Yorkshire, United Kingdom",,Bing Maps,Neighborhood
+52.2752838,1.457196,Sibton,"Sibton, Suffolk, United Kingdom",,Bing Maps,city/town
+50.9049644,-1.403234,Southampton.A33,"Southampton, Southampton, United Kingdom",,Bing Maps,city/town
+50.9049644,-1.403234,Southampton.Centre,"Southampton, Southampton, United Kingdom",,Bing Maps,city/town
+51.544206,0.678408,"Southend.on.Sea",-,,Bing Maps,
+51.4888416,-0.077643,Southwark.A2.Old.Kent.Road,"Old Kent Road, Walworth, London SE1 5, England, United Kingdom",,Bing Maps,street
+53.4538765,-2.7368939,St.Helens.Linkway,"St. Helens, Merseyside, United Kingdom",,Bing Maps,city/town
+51.7992134,1.0776989,St.Osyth,"St. Osyth, Essex, United Kingdom",,Bing Maps,city/town
+51.518167,0.439548,"Stanford.le.Hope.Roadside",-,,Bing Maps,
+54.565819,-1.315900,"Stockton.on.Tees.A1305.Roadside",-,,Bing Maps,
+54.516667,-1.358547,"Stockton.on.Tees.Eaglescliffe",-,,Bing Maps,
+52.980436,-2.111898,"Stoke.on.Trent.A50.Roadside",-,,Bing Maps,
+53.028210, -2.175133,"Stoke.on.Trent.Centre",-,,Bing Maps,
+50.9156647,-0.456521,Storrington.Roadside,"Storrington, West Sussex, United Kingdom",,Bing Maps,city/town
+57.734456, -4.776583,"Strathvaich",-,,Bing Maps,
+54.8690147,-1.414589,Sunderland.Silksworth,"Silksworth, Sunderland, Tyne & Wear, United Kingdom",,Bing Maps,Neighborhood
+54.913531,-1.4444014,Sunderland.Wessington.Way,"Wessington Way, Sunderland SR5 3, England, United Kingdom",,Bing Maps,street
+51.621582,-3.9433689,Swansea.Roadside,"Swansea, Swansea, United Kingdom",,Bing Maps,city/town
+51.5584221,-1.7820359,Swindon.Walcot,"Swindon, Swindon, United Kingdom",,Bing Maps,city/town
+52.675869,-2.449698,Telford.Hollinswood,"Telford, Telford and Wrekin, United Kingdom",,Bing Maps,city/town
+51.5060043,0.373023,Thurrock,"Thurrock, United Kingdom",,Bing Maps,county/district
+51.5087814,-0.010522,Tower.Hamlets.Roadside,"Tower Hamlets, London, London, United Kingdom",,Bing Maps,Neighborhood
+52.583252,-2.0543079,Walsall.Willenhall,"Willenhall, Walsall, United Kingdom",,Bing Maps,city/town
+52.5859489,-1.98229,Walsall.Woodlands,"Walsall, West Midlands, United Kingdom",,Bing Maps,city/town
+53.398819,-2.5636029,Warrington,"Warrington, United Kingdom",,Bing Maps,county/district
+52.2972755,0.283841,Wicken.Fen,"Wicken Fen Nature Reserve, United Kingdom",,Bing Maps,Park
+53.365968,-2.729626,Widnes.Milton.Road,"Widnes Road & Milton Road, Widnes WA8 6, England, United Kingdom",,Bing Maps,intersection
+53.5442696,-2.631063,Wigan.Centre,"Wigan, Greater Manchester, United Kingdom",,Bing Maps,city/town
+53.3386917,-3.0488501,Wirral.Tranmere,"Wirral, United Kingdom",,Bing Maps,Peninsula
+50.8147125,-0.371387,Worthing.A27.Roadside,"Worthing, West Sussex, United Kingdom",,Bing Maps,city/town
+53.0469093,-2.991673,Wrexham,"Wrexham, Wrexham, United Kingdom",,Bing Maps,city/town
+50.597600,-3.716510,Yarner.Wood,Wood County,,Bing Maps,county/district
+53.9577446,-1.0822591,York.Bootham,"York, York, United Kingdom",,Bing Maps,city/town
+53.951889,-1.075861,York.Fishergate,"York, Australia",,Bing Maps,city/town
