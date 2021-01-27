@@ -42,7 +42,3 @@ The days which were detected as outliers in this analysis occur around early Nov
 Part 2 coming soon!
 </h3> 
 
-<div align="center"> 
-The code for this project can be found at: [github.com/nrennie/air_pollution](https://github.com/nrennie/air_pollution) 
-</div>
-
